@@ -24,6 +24,10 @@ HF_MODELS = {
         repo_id='sberbank-ai/Real-ESRGAN',
         filename='RealESRGAN_x8.pth',
     ),
+    9: dict(
+        repo_id='xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth',
+        filename='RealESRGAN_x9.pth',
+    ),
 }
 
 
