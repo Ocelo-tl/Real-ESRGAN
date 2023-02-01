@@ -25,8 +25,8 @@ HF_MODELS = {
         filename='RealESRGAN_x4plus_anime_6B.pth',
     ),
     9: dict(
-        repo_id='xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth',
-        filename='RealESRGAN_x9.pth',
+        repo_id='xinntao/Real-ESRGAN/releases/download/v0.2.2.4',
+        filename='RealESRGAN_x4plus_anime_6B.pth',
     ),
 }
 
